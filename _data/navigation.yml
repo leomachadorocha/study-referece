@@ -1,13 +1,14 @@
 #
-# custom URL
+# URL = /<folder>/<filename>/
 #
 main:
   - title: "Azure Admin(F)"
-    #url: /azure-admin-fora/
+    url: /azure-admin-f/
+    description: "dentro de _pages"
   - title: "Azure Admin(D)"
-    url: /azure-admin-d/
+    url: /azure-admin/azure-admin-d/
   - title: "Test Admin"
-    url: /test-admin/
+    url: /test-admin/test-admin/
   - title: "Posts"
     url: /posts/
   - title: "Power BI"
