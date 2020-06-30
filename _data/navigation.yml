@@ -3,8 +3,8 @@
 # description is a tooltip
 #
 main:
-  - title: "Azure Administrator4"
-    url: /azure-admin/azure-admin-index/
+  - title: "Azure Administrator5"
+    url: /azure-admin/
     description: "Azure administrator reference"
   - title: "Posts"
     url: /posts/
