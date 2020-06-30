@@ -3,14 +3,17 @@
 # description is a tooltip
 #
 main:
-  - title: "Azure Administrator7"
-    url: /:path/:basename/
+  - title: "Azure Administrator"
+    url: /azure-admin/
     description: "Azure administrator reference"
+  - title: "|"
+  - title: "Power BI"
+    url: /power-bi/
   - title: "Posts"
     url: /posts/
-  - title: "Power BI"
+  - title: "Categories"
     url: /categories/
-  - title: "Markdown"
+  - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
