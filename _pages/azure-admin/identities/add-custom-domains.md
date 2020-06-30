@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin/identities/add-custom-domains/
+permalink: /add-custom-domains/
 title: "Azure Administrator > Identities > Add custom domains (103)"
 ---
 #### ✔ _create a directory_
