@@ -1,9 +1,8 @@
 ---
 permalink: /azure-admin/
-title: "Azure Admin"
+title: "Azure Administrator"
 ---
-
-## Azure Administrator
+## Azure Administrator (fora da pasta)
 
 [Compute](compute/compute.md)
 
