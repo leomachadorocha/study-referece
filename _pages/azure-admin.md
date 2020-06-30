@@ -6,7 +6,7 @@ title: "Azure Administrator"
 
 [Governance](governance/governance.md)
 
-[Identities](azure-admin/identities/identities.md)
+[Identities](azure-admin/identities.md)
 
 [Monitoring](monitoring/monitoring.md)
 
