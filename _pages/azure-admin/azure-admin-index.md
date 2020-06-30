@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin/azure-admin-index/
+#permalink: /azure-admin/azure-admin-index/
 title: "Azure Administrator"
 ---
 [Compute](compute/compute.md)
