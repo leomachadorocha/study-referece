@@ -1,6 +1,9 @@
+#
+# custom URL
+#
 main:
   - title: "Azure Admin"
-    url: /azure-admin-url/
+    url: /azure-admin/
   - title: "Posts"
     url: /posts/
   - title: "Power BI"
