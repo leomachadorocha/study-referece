@@ -6,14 +6,13 @@ main:
   - title: "Azure Administrator"
     url: /azure-admin/
     description: "Azure administrator reference"
-  - title: "|"
   - title: "Power BI"
     url: /power-bi/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  #- title: "Posts"
+  #  url: /posts/
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  #- title: "About"
+  #  url: /about/
