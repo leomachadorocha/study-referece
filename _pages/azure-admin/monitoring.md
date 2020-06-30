@@ -1,4 +1,4 @@
 ---
 permalink: /azure-admin/monitoring/
-#title: "Azure Administrator"
+title: "Azure Administrator > Monitoring"
 ---

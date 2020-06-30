@@ -1,4 +1,4 @@
 ---
 permalink: /azure-admin/network/
-#title: "Azure Administrator"
+title: "Azure Administrator > Network"
 ---

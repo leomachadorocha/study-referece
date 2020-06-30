@@ -1,4 +1,4 @@
 ---
 permalink: /azure-admin/compute/
-#title: "Azure Administrator"
+title: "Azure Administrator > Compute"
 ---

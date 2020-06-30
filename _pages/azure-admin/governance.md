@@ -1,4 +1,4 @@
 ---
 permalink: /azure-admin/governance/
-#title: "Azure Administrator"
+title: "Azure Administrator > Governance"
 ---

@@ -1,4 +1,4 @@
 ---
 permalink: /azure-admin/storage/
-#title: "Azure Administrator"
+title: "Azure Administrator > Storage"
 ---
