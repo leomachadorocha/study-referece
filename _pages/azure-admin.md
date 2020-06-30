@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin/
+permalink: /:path/:basename/
 title: "Azure Administrator"
 ---
 [Compute](compute/compute.md)
