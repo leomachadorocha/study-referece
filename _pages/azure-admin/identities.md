@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin/identities
+permalink: /azure-admin/identities/
 #title: "Azure Administrator"
 ---
 ## Azure Administrator > Identities
