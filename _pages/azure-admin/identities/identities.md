@@ -1,3 +1,7 @@
+---
+permalink: /azure-admin/identities
+#title: "Azure Administrator"
+---
 ## Azure Administrator > Identities
 &nbsp;
 ### Manage Azure AD objects
