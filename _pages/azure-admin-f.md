@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin-f/
+#permalink: /azure-admin-f/
 title: "Azure Administrator"
 ---
 ## Azure Administrator (fora da pasta)
