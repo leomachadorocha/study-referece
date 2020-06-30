@@ -1,9 +1,8 @@
 ---
-permalink: /azure-admin/azure-admin/
-title: "Azure Admin"
+permalink: /azure-admin-f/
+title: "Azure Administrator"
 ---
-
-## Azure Administrator (dentro da pasta)
+## Azure Administrator (fora da pasta)
 
 [Compute](compute/compute.md)
 
