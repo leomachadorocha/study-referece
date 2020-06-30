@@ -1,5 +1,5 @@
 ---
-permalink: /azure/
+permalink: /azure-admin/azure-admin/
 title: "Azure Admin"
 ---
 
