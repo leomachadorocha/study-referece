@@ -2,8 +2,6 @@
 permalink: /azure-admin/identities/
 #title: "Azure Administrator"
 ---
-## Azure Administrator > Identities
-&nbsp;
 ### Manage Azure AD objects
 
 * [add custom domains (103)](add-custom-domains.md)
