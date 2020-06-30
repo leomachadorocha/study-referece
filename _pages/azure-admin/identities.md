@@ -1,6 +1,6 @@
 ---
 permalink: /azure-admin/identities/
-#title: "Azure Administrator"
+title: "Azure Administrator > Identities"
 ---
 ### Manage Azure AD objects
 
