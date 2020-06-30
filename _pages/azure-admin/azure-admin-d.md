@@ -2,9 +2,6 @@
 permalink: /azure-admin/azure-admin-d/
 title: "Azure Administrator"
 ---
-
-## Azure Administrator (dentro da pasta)
-
 [Compute](compute/compute.md)
 
 [Governance](governance/governance.md)
