@@ -1,6 +1,6 @@
 main:
   - title: "Azure Admin"
-    url: /azure-admin/azure-admin
+    url: /azure-admin/
   - title: "Posts"
     url: /posts/
   - title: "Power BI"
