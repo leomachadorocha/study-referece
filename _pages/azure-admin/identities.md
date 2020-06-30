@@ -4,10 +4,10 @@ title: "Azure Administrator > Identities"
 ---
 ### Manage Azure AD objects
 
-* [add custom domains (103)](azure-admin/identities/add-custom-domains.md)
+* [add custom domains (103)](identities/add-custom-domains.md)
 
-* [create and manage users](create-users.md)
+* [create and manage users](identities/create-users.md)
 
-* [create and manage groups](create-groups.md)
+* [create and manage groups](identities/create-groups.md)
 
-* [Manage device settings](device-settings.md)
+* [Manage device settings](identities/device-settings.md)
