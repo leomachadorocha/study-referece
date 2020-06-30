@@ -2,7 +2,7 @@
 # URL = /<folder>/<filename>/
 #
 main:
-  - title: "Azure Admin(F)"
+  - title: "Azure Admin(Fa)"
     url: /azure-admin-f/
     description: "dentro de _pages"
   - title: "Azure Admin(D)"
