@@ -1,5 +1,6 @@
 ---
-title: "Azure Administrator 4"
+permalink: /:path
+title: "Azure Administrator 3"
 ---
 [Compute](compute/compute.md)
 
