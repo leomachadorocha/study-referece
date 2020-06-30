@@ -1,6 +1,5 @@
 ---
-permalink: /azure-admin/
-title: "Azure Administrator 3"
+title: "Azure Administrator 4"
 ---
 [Compute](compute/compute.md)
 
