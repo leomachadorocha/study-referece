@@ -12,7 +12,7 @@ title: "Azure Administrator > Identities > Create and manage users"
 >
 > Microsoft Account               = are the Guest Users
 
-![](/assets/images/identities/2.1.png)
+![](/study-reference/assets/images/identities/2.1.png)
 
 &nbsp;
 #### ✔ _create users with CLI_
@@ -45,9 +45,9 @@ New-AzureADUser -AccountEnabled $True
 &nbsp;
 #### ✔ _perform bulk user updates_
 
-![](/assets/images/identities/2.3.png)
+![](/study-reference/assets/images/identities/2.3.png)
 
-![](/assets/images/identities/2.2.png)
+![](/study-reference/assets/images/identities/2.2.png)
 
 &nbsp;
 #### ✔ _manage guest accounts_

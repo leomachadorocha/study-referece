@@ -16,4 +16,4 @@ title: "Azure Administrator > Identities >  Create and manage groups"
 >
 > * Dynamic User: uses dynamic groups rules for adding users
 
-![](/assets/images/identities/2.6.png)
+![](/study-reference/assets/images/identities/3.1.png)
