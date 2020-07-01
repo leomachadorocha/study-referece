@@ -6,7 +6,7 @@ title: "Azure Administrator > Identities"
 
 * [add custom domains (103)](identities/add-custom-domains.md)
 
-* [create and manage users](identities/create-users.md)
+* [create and manage users](/azure-admin/identities/create-users.md)
 
 * [create and manage groups](identities/create-groups.md)
 
