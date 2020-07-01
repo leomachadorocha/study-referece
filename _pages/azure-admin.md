@@ -2,7 +2,7 @@
 permalink: /azure-admin/
 title: "Azure Administrator"
 ---
-[Compute](/azure-admin/compute.md)
+[Compute](/azure-admin/compute/)
 
 [Governance](/azure-admin/governance.md)
 
