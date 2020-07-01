@@ -25,7 +25,9 @@ title: "Azure Administrator > Identities > Add custom domains (103)"
 > Domain Validation != Extended Validation
 
 ![](/study-reference/assets/images/identities/1.7.png)
+
 &nbsp;
+
 * * *
 &nbsp;
 #### ✔ _delete a directory_
