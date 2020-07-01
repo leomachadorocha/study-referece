@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: STUDY REFERENCE
+subtitle: "Version 1.0"
+#logo: "/assets/images/88x88.png"
+masthead_title: "My Custom Title" # overrides the website title displayed in the masthead, use " " for no title
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,6 +27,7 @@ github_username: username
 #minimal_mistakes_skin    : "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin: dark
 search: true
+locale: "en"
 
 # Build settings
 markdown: kramdown
