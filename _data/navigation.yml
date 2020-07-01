@@ -1,12 +1,15 @@
 #
-# description is a tooltip
+# url: path to the file
+#   / = "_pages" folder
+#
+# description: is a tooltip
 #
 main:
   - title: "Azure Administrator"
     url: /azure-admin/
     description: "Azure administrator reference"
   - title: "Power BI"
-    url: /power-bi/
+    url: /power-bi2/
   #- title: "Posts"
   #  url: /posts/
   #- title: "Categories"
