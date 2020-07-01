@@ -1,5 +1,7 @@
-## Azure Administrator > Identities > Create and manage groups
-&nbsp;
+---
+permalink: /azure-admin/identities/create-groups/
+title: "Azure Administrator > Identities >  Create and manage groups"
+---
 #### ✔ _create groups_
 
 > Group type

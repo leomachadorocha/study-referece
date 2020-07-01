@@ -1,3 +1,5 @@
-## Azure Administrator > Identities > Manage device settings
-&nbsp;
+---
+permalink: /azure-admin/identities/device-settings/
+title: "Azure Administrator > Identities > Manage device settings"
+---
 #### ✔ _new topic_

@@ -1,5 +1,7 @@
-## Azure Administrator > Identities > Create and manage users
-&nbsp;
+---
+permalink: /azure-admin/identities/create-users/
+title: "Azure Administrator > Identities > Create and manage users"
+---
 #### ✔ _kind of users_
 
 > Azure Active Directory          = cloud users
