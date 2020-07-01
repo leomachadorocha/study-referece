@@ -10,4 +10,4 @@ title: "Azure Administrator > Identities"
 
 * [create and manage groups](identities/create-groups.md)
 
-* [Manage device settings](identities/device-settings.md)
+* [manage device settings](identities/manage-devices.md)
