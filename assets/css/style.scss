@@ -1,0 +1,15 @@
+---
+---
+//
+// Pequenas alterações do CSS do tema original
+// 
+// CSS do tema original:
+// https://github.com/pages-themes/midnight/blob/master/_sass/jekyll-theme-midnight.scss
+//
+
+@import "{{ site.theme }}";
+
+h4 {
+  color:#ffcc00;
+  //font-size: 16px;
+}
