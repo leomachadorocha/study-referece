@@ -16,7 +16,7 @@
 title: STUDY REFERENCE
 subtitle: "Version 1.0"
 #logo: "/assets/images/88x88.png"
-masthead_title: "My Custom Title" # overrides the website title displayed in the masthead, use " " for no title
+#masthead_title: "My Custom Title" # overrides the website title displayed in the masthead, use " " for no title
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -39,7 +39,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
+  - _pages # be sure Jekyll “sees” and processes the files
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

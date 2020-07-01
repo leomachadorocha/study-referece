@@ -4,9 +4,9 @@ title: "Azure Administrator > Identities > Add custom domains (103)"
 ---
 #### ✔ _create a directory_
 
-![](assets/images/identities/1.1.png)
+![](./././assets/images/identities/1.1.png)
 
-![](/assets/images/identities/1.2.png)  
+![](/study-reference/assets/images/identities/1.2.png)  
 
 ![](/assets/images/identities/1.3.png)  
 &nbsp;
