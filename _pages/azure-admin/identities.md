@@ -10,4 +10,4 @@ title: "Azure Administrator > Identities"
 
 * [create and manage groups](identities/create-groups.md)
 
-* [manage devices](identities/manage-devices.md)
+* [Azure AD Join/manage devices](identities/manage-devices.md)
