@@ -12,5 +12,7 @@ title: "Azure Administrator"
 
 [Network](/azure-admin/network.md)
 
+[Security](/azure-admin/security.md)
+
 [Storage](/azure-admin/storage.md)
 
