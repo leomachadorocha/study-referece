@@ -11,3 +11,5 @@ title: "Azure Administrator > Identities"
 * [create and manage groups](identities/create-groups.md)
 
 * [Azure AD Join/manage devices](identities/manage-devices.md)
+
+* [self-service password reset](identities/sspr.md)
