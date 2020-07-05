@@ -13,3 +13,5 @@ title: "Azure Administrator > Identities"
 * [Azure AD Join/manage devices](identities/manage-devices.md)
 
 * [self-service password reset](identities/sspr.md)
+
+* [multi-factor authentication (103)](identities/mfa.md)
