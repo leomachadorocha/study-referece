@@ -30,3 +30,13 @@ Set-MsolUser
 -UserPrincipalName $user
 -StrongAuthenticationRequirements $sta
 ```
+
+#### ✔ _other settings_
+
+> **Fraud alerts** = users can report fraudulent attempts to access their resources using the mobile app or through their phone
+>
+> **Bypass options** = allows a user to authenticate a single time without performing 2-step verification
+>
+> **Trusted IP's** = bypasses 2-step verification for users who sign in from the company internet
+>
+> **Verification methods** = choose the verification methods that are available for your users 
