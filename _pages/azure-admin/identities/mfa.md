@@ -14,7 +14,7 @@ title: "Azure Administrator > Identities > Multi-factor authentication (103)"
 
 > the traditional way is enable by changing the user state
 >
-> works only for MFA on the cloud AND MFA servers
+> works for MFA on the cloud AND MFA servers
 >
 > it overrides the Conditional Access Policy
 
