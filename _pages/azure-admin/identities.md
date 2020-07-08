@@ -15,3 +15,5 @@ title: "Azure Administrator > Identities"
 * [self-service password reset](identities/sspr.md)
 
 * [multi-factor authentication (103)](identities/mfa.md)
+
+* [Azure AD Connect (103)](identities/ad-connect.md)
