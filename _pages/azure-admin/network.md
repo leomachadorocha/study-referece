@@ -2,6 +2,6 @@
 permalink: /azure-admin/network/
 title: "Azure Administrator > Network"
 ---
-### Manage Azure AD objects
+### Virtual Networks (VNETs)
 
-* [connectivity between VNET's](network/peering.md)
+* [connectivity between VNETs](network/peering.md)

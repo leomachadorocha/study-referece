@@ -2,9 +2,11 @@
 permalink: /azure-admin/network/peering/
 title: "Azure Administrator > Network > Peering"
 ---
-> **VNET PEERING** : vnet's in SAME regions
+#### ✔ _peering_
+
+> **VNET PEERING** : VNETs in SAME region
 >
-> **GLOBAL VNET PEERING** : vnet's in DIFFERENT regions
+> **GLOBAL VNET PEERING** : VNETs in DIFFERENT regions
 >
 > **CROSS-TENANT VNET PEERING** : must configure in CLI, PowerShell or ARM templates (not Portal)
 
@@ -16,8 +18,20 @@ title: "Azure Administrator > Network > Peering"
 >
 > data transfer across subscriptions and regions
 >
-> 2 peering connections are required : A -> B || B -> A
+> 2 peering connections are required : A -> B | B -> A
 >
-> NOT TRANSITIVE : A <-> B || B <-> C || A <-X-> C
+> NOT TRANSITIVE : A <-> B | B <-> C | A <-X-> C
 
-#### ✔ _VNET peering_
+#### ✔ _configuring with PowerShell_
+
+```powershell
+# get information about the VNETs
+Get-AzVirtualNetwork
+-Name <VNET-NAME)
+-ResourceGroup <RG-NAME>
+
+# create the peer
+Add-AzVirtualNetworkPeering
+-Name <PEER-NAME>
+...
+```
