@@ -18,6 +18,8 @@ title: "Azure Administrator > Network > Peering"
 
 ![](/study-reference/assets/images/network/1.4.png)
 
+![](/study-reference/assets/images/network/1.5.png)
+
 > for complex networks use **IPsec Site-to-Site**
 
 > low latency, high bandwidth connection
