@@ -20,7 +20,10 @@ title: "Azure Administrator > Network > Peering"
 >
 > 2 peering connections are required : A -> B | B -> A
 >
-> NOT TRANSITIVE : A <-> B | B <-> C | A <-X-> C
+> NOT TRANSITIVE :&nbsp;
+> * A <-> B&nbsp;
+> * B <-> C &nbsp;
+> * A <-X-> C
 
 #### ✔ _configuring with PowerShell_
 
