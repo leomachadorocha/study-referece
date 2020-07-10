@@ -18,9 +18,11 @@ title: "Azure Administrator > Network > Peering"
 >
 > data transfer across subscriptions and regions
 >
-> 2 peering connections are required : A -> B | B -> A
+> 2 peering connections are required :
+> * A -> B
+> * B -> A
 >
-> NOT TRANSITIVE :&nbsp;
+> NOT TRANSITIVE :
 > * A <-> B&nbsp;
 > * B <-> C &nbsp;
 > * A <-X-> C
