@@ -34,6 +34,8 @@ title: "Azure Administrator > Network > Peering"
 > * A <-> B&nbsp;
 > * B <-> C &nbsp;
 > * A <-X-> C
+>
+> no VNET GATEWAY is necessary
 
 #### ✔ _configuring with PowerShell_
 
@@ -48,3 +50,13 @@ Add-AzVirtualNetworkPeering
 -Name <PEER-NAME>
 ...
 ```
+
+#### ✔ _VNET-to-VNET Connection_
+
+![](/study-reference/assets/images/network/1.8.png)
+
+![](/study-reference/assets/images/network/1.9.png)
+
+![](/study-reference/assets/images/network/1.10.png)
+
+![](/study-reference/assets/images/network/1.11.png)
