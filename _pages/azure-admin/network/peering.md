@@ -37,7 +37,7 @@ title: "Azure Administrator > Network > Peering"
 >
 > no VNET GATEWAY is necessary
 
-#### ✔ _configuring with PowerShell_
+#### ✔ _configuring Peering with PowerShell_
 
 ```powershell
 # get information about the VNETs
@@ -53,6 +53,8 @@ Add-AzVirtualNetworkPeering
 
 #### ✔ _VNET-to-VNET Connection_
 
+> 1 - create the "Gateway subnet" in both VNETs
+
 ![](/study-reference/assets/images/network/1.8.png)
 
 ![](/study-reference/assets/images/network/1.9.png)
@@ -60,3 +62,20 @@ Add-AzVirtualNetworkPeering
 ![](/study-reference/assets/images/network/1.10.png)
 
 ![](/study-reference/assets/images/network/1.11.png)
+
+> 2 - create the VIRTUAL NETWORK GATEWAY in both VNETs
+
+![](/study-reference/assets/images/network/1.12.png)
+
+> 3 - create 2 VPN CONNECTIONS between the two Gateways
+
+![](/study-reference/assets/images/network/1.13.png)
+
+#### ✔ _create the Gateway with PowerShell_
+
+```powershell
+# create the gateway
+Add-AzVirtualNetworkGateway
+-Name <GATEWAY-NAME>
+...
+```
