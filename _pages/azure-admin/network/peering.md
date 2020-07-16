@@ -79,3 +79,9 @@ Add-AzVirtualNetworkGateway
 -Name <GATEWAY-NAME>
 ...
 ```
+
+#### ✔ _verify connectivity between VNETs_
+
+![](/study-reference/assets/images/network/1.6.png)
+
+![](/study-reference/assets/images/network/1.7.png)

@@ -6,4 +6,4 @@ title: "Azure Administrator > Network"
 
 * [connectivity between VNETs](network/peering.md)
 
-* [verify connectivity between VNETs](network/verify-connectivity.md)
+* [connectivity between VNETs and on-premises network](network/vnet-to-onpremises.md)
