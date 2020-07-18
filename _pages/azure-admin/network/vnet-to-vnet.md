@@ -1,6 +1,6 @@
 ---
-permalink: /azure-admin/network/peering/
-title: "Azure Administrator > Network > Peering"
+permalink: /azure-admin/network/vnet-vnet-connectivity/
+title: "Azure Administrator > Network > Connectivity between VNETs"
 ---
 #### ✔ _peering_
 

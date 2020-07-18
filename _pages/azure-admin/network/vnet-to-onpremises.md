@@ -1,5 +1,5 @@
 ---
-permalink: /azure-admin/network/connect-vnet-onpremises/
+permalink: /azure-admin/network/vnet-onpremises-connectivity/
 title: "Azure Administrator > Network > Connectivity between VNETs and on-premises network"
 ---
 #### ✔ _configure Site-to-Site VPN with PowerShell_
