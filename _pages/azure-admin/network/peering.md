@@ -80,7 +80,7 @@ Add-AzVirtualNetworkGateway
 ...
 ```
 
-#### ✔ _verify connectivity between VNETs_
+#### ✔ _troubleshooting connectivity between VNETs_
 
 ![](/study-reference/assets/images/network/1.6.png)
 
