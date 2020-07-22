@@ -4,8 +4,11 @@ title: "Azure Administrator > Network > NIC"
 ---
 
 >
-> OBS: in the Portal, we can not create a NIC with a Public IP Address associate with it
+> OBS: 
 >
+> In the Portal, we can not create a NIC with a Public IP Address associate with it
+>
+
 #### ✔ _configure NIC with PowerShell_
 
 ```powershell
