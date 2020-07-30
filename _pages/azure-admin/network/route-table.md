@@ -10,6 +10,7 @@ title: "Azure Administrator > Network > Route tables"
 > Route Tables are associated to SUBNETS.
 >
 > 1 route table - n subnets
+>
 > 1 subnet - 1 route table
 
 ![](/study-reference/assets/images/network/1.17.png)
