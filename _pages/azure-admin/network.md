@@ -9,3 +9,5 @@ title: "Azure Administrator > Network"
 * [connectivity between VNETs and on-premises network](network/vnet-to-onpremises.md)
 
 * [NIC](network/nic.md)
+
+* [route tables](network/route-table.md)
